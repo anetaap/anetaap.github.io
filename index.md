@@ -20,6 +20,7 @@ PhChess is a project which me and my frinds decided to do for the subject PhChes
 We are glad that more and more people are interested in chess, among others due to the Netflix series "Queen's Gambit", which I liked very much by the way. We think that thanks to this the topic of our project was very timely.
 And here is a photo of our board, it is very classic, and most importantly it fulfills its role.♥♟
 
+![](https://github.com/anetaap/anetaap.github.io/blob/main/Pychess.jpg?raw=true)
 
 Check out my GitHub profile!
 
